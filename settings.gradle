@@ -1,0 +1,2 @@
+rootProject.name='kube'
+include ':app'
